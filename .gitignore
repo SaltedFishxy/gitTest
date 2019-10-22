@@ -1,6 +1,6 @@
 ##ignore this file##
 /target/
-/.git/
-/.idea/
+*/.git/
+*/.idea/
 ##class file##
-.iml
+*.iml
